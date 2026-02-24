@@ -1,0 +1,2 @@
+# Banking-Management-System---Relational-Database
+This project represents a fundamental structure for a banking institution's database, created using the SQL programming language. The system is designed to store and manage essential information regarding clients, the available types of accounts, the active accounts held by these clients, as well as a detailed history of all financial transactions.
